@@ -1,0 +1,19 @@
+#root {
+  text-align: center;
+}
+
+ marquee {
+  width: 100vw;
+ }
+
+ button{
+  margin: 20px;
+ }
+
+
+body{
+  background-image: url('src/assets/fd8e2997f535c4d645e632cbe77a3994.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}

@@ -1,0 +1,15 @@
+.catMarquee{
+    width: 200px;
+}
+
+.catCards{
+    width: 700px;
+    border: 10px solid;
+    border-radius: 5%;
+    padding: 20px;
+    margin: 20px;
+}
+
+*{
+    background-color: black;
+}
